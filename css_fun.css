@@ -51,6 +51,7 @@ section {
     color: var(--clr-light);
     font-weight: 700;
     font-size: 1.25rem;
+    transition: all 2s ease-out;
   }
   
 .item-1 {
@@ -101,53 +102,53 @@ section {
     background-color: var(--clr-pink);
   }
   
-.item-1:hover {
+.item-1:hover:focus {
     background-color: var(--clr-green);
     transform: scale(0.5, 0.5);
   }
   
-  .item-2:hover {
+  .item-2:hover:focus {
     background-color: var(--clr-lightRose);
     
     transform: scale(0.5, 0.5);
   }
-  .item-3:hover {
+  .item-3:hover:focus {
     background-color: var(--clr-lightRose);
     transform: scale(0.5, 0.5);
   }
-  .item-4:hover {
+  .item-4:hover:focus {
     background-color: var(--clr-lightRose);
     transform: scale(0.5, 0.5);
   }
-  .item-5:hover {
+  .item-5:hover:focus {
     background-color: var(--clr-lightRose);
     transform: scale(0.5, 0.5);
   }
-  .item-6:hover {
+  .item-6:hover:focus {
     background-color: var(--clr-lightRose);
     transform: scale(0.5, 0.5);
   }
-  .item-7:hover {
+  .item-7:hover:focus {
     background-color: var(--clr-sky);
     transform: scale(0.5, 0.5);
   }
-  .item-8:hover {
+  .item-8:hover:focus {
     background-color: var(--clr-lightRose);
     transform: scale(0.5, 0.5);
   }
-  .item-9:hover {
+  .item-9:hover:focus {
     background-color: var(--clr-lightRose);
     transform: scale(0.5, 0.5);
   }
-  .item-10:hover {
+  .item-10:hover:focus {
     background-color: var(--clr-lightRose);
     transform: scale(0.5, 0.5);
   }
-  .item-11:hover {
+  .item-11:hover:focus {
     background-color: var(--clr-lightRose);
     transform: scale(0.5, 0.5);
   }
-  .item-12:hover {
+  .item-12:hover:focus {
     background-color: var(--clr-lightRose);
     transform: scale(0.5, 0.5);
   }
